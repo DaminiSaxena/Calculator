@@ -1,0 +1,47 @@
+.Button{
+    // text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    border-radius: 4px;
+    height: 80px;
+    width: 20%;
+    margin: 5px;
+    background-color: rgb(92, 91, 91);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ButtonPanel{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding:12px;
+   
+}
+
+.redButton {
+    background-color: red;
+    width:45% ;
+    font-size: larger;
+    font-weight: bolder;
+    border-radius: 4px;
+    height: 80px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bigButton {
+    background-color: rgb(92, 91, 91);
+    width:45% ;
+    font-size: larger;
+    font-weight: bolder;
+    border-radius: 4px;
+    height: 80px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

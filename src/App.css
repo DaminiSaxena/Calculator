@@ -1,0 +1,4 @@
+.ButtonPanel{
+  display: flex;
+  flex-wrap: wrap;
+}
